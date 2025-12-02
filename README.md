@@ -87,4 +87,4 @@ This project demonstrates that a domain-specific Transformer, even with a reduce
 
 -----
 
-**© 2025 Project Gradient-Itihaas**
+**© 2025 Project Edu_Slope_Dynamics**
